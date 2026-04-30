@@ -5,7 +5,7 @@ Automated provisioning for Kali Linux penetration testing environments. Modular,
 ## Quick Start
 
 ```bash
-git clone https://github.com/fedeops/0000-Kali_setup.git
+git clone https://github.com/fedeops/0000-Setup-Kali.git
 cd kali-setup
 sudo ./setup.sh
 ```
