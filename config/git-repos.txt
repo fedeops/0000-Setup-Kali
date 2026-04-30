@@ -1,0 +1,24 @@
+# ================================================================
+# GIT REPOSITORIES TO CLONE
+# ================================================================
+# Format:
+# ### Repository Name
+# https://github.com/user/repo.git
+# /destination/path
+#
+# Lines starting with single # are comments (ignored)
+# Lines starting with ### are repository titles
+# ~ expands to user home directory
+# ================================================================
+
+### PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings.git
+~/tools/PayloadsAllTheThings
+
+### Windows Privilege Escalation
+https://github.com/frizb/Windows-Privilege-Escalation.git
+~/tools/WinPrivEsc
+
+### GTFOBins Offline
+https://github.com/GTFOBins/GTFOBins.github.io.git
+~/tools/GTFOBins

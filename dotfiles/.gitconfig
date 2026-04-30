@@ -1,0 +1,20 @@
+[user]
+	name = Federico
+	email = federico@localhost
+
+[core]
+	editor = code --wait
+
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	lg = log --oneline --graph --all
+	last = log -1 HEAD
+	unstage = reset HEAD --
+
+[color]
+	ui = auto
+
+[push]
+	default = simple
