@@ -22,3 +22,15 @@ https://github.com/frizb/Windows-Privilege-Escalation.git
 ### GTFOBins Offline
 https://github.com/GTFOBins/GTFOBins.github.io.git
 ~/tools/GTFOBins
+
+### JAWS - Just Another Windows (Enum) Script
+https://github.com/411Hall/JAWS.git
+~/tools/JAWS
+
+### Invoke-Obfuscation
+https://github.com/danielbohannon/Invoke-Obfuscation.git
+~/tools/Invoke-Obfuscation
+
+### Starkiller (Empire C2 GUI)
+https://github.com/BC-SECURITY/Starkiller.git
+~/tools/Starkiller
